@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_03", "Lesson_03\Less
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_04", "Lesson_04\Lesson_04.csproj", "{933CD0B2-36C3-456D-8E8C-72313E1ACDC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{EE05F027-FCAB-4D0F-82A6-4AC796716C9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop", "Loop\Loop.csproj", "{EE05F027-FCAB-4D0F-82A6-4AC796716C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoTo", "GoTo\GoTo.csproj", "{DBECE481-FA05-4978-B1F4-5B5ACB6154B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coloring", "Coloring\Coloring.csproj", "{A0DC2601-21AC-402C-911C-99B7FC1C5871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{BD6636DA-E55E-4C7B-828F-8031664BBE96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{EE05F027-FCAB-4D0F-82A6-4AC796716C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE05F027-FCAB-4D0F-82A6-4AC796716C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE05F027-FCAB-4D0F-82A6-4AC796716C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBECE481-FA05-4978-B1F4-5B5ACB6154B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBECE481-FA05-4978-B1F4-5B5ACB6154B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBECE481-FA05-4978-B1F4-5B5ACB6154B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBECE481-FA05-4978-B1F4-5B5ACB6154B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DC2601-21AC-402C-911C-99B7FC1C5871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DC2601-21AC-402C-911C-99B7FC1C5871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DC2601-21AC-402C-911C-99B7FC1C5871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DC2601-21AC-402C-911C-99B7FC1C5871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6636DA-E55E-4C7B-828F-8031664BBE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6636DA-E55E-4C7B-828F-8031664BBE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6636DA-E55E-4C7B-828F-8031664BBE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6636DA-E55E-4C7B-828F-8031664BBE96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
