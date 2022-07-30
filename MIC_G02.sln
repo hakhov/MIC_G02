@@ -25,11 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultyPlayTable", "MultyPlay
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyArray", "MyArray\MyArray.csproj", "{4F97B072-514B-42FF-BF9B-7AFF8135A02C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClass", "ArrayClass\ArrayClass.csproj", "{95FAE5E9-DB96-457F-B397-E30EE79B2403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayClass", "ArrayClass\ArrayClass.csproj", "{95FAE5E9-DB96-457F-B397-E30EE79B2403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myArrayList", "myArrayList\myArrayList.csproj", "{D88FB6BA-3992-4E4C-BC41-F7DA2FE1A061}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myArrayList", "myArrayList\myArrayList.csproj", "{D88FB6BA-3992-4E4C-BC41-F7DA2FE1A061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{7FFAA659-9B38-4E86-98BF-42D3277A7FF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParse", "TryParse\TryParse.csproj", "{7FFAA659-9B38-4E86-98BF-42D3277A7FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{BE4FCE87-4404-4A24-B637-58757DFBB920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDioganal", "MatrixDioganal\MatrixDioganal.csproj", "{73975800-B7FB-4507-A604-CAAE01ADBBB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{7FFAA659-9B38-4E86-98BF-42D3277A7FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FFAA659-9B38-4E86-98BF-42D3277A7FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FFAA659-9B38-4E86-98BF-42D3277A7FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4FCE87-4404-4A24-B637-58757DFBB920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4FCE87-4404-4A24-B637-58757DFBB920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4FCE87-4404-4A24-B637-58757DFBB920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4FCE87-4404-4A24-B637-58757DFBB920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73975800-B7FB-4507-A604-CAAE01ADBBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73975800-B7FB-4507-A604-CAAE01ADBBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73975800-B7FB-4507-A604-CAAE01ADBBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73975800-B7FB-4507-A604-CAAE01ADBBB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
